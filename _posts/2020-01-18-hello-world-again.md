@@ -1,4 +1,4 @@
-# Hello Again, it's still me!
+# Hello again, it's still me!
 
 No, sorry we haven't started the journey yet. Just testing my ability to swim ;)
 
