@@ -28,3 +28,10 @@ $$
 ![I LOVE RASA](/images/rasa_logo.png)
 
 Seriously, I do! It's beautiful :)
+
+## Section 5: can we write coode here?
+
+```python
+import numpy as np
+x = [1, 2, "a", ["c", "d"]]
+```
