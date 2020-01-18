@@ -15,8 +15,10 @@ Principles, assumptions, etc.
 
 ## Implmentation/Experimentation
 
-Where do we plan to apply these principles
+Where do we plan to apply these principles? How?
 
 ## Conclusions
 
 What did we learn?
+
+Well, to be honest, now I can finally write integration symbol in a blog: $\int_0^nx dx$
