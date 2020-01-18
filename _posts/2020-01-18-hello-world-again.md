@@ -25,6 +25,6 @@ $$
 
 ## Section 4: Image?
 
-![*I LOVE RASA*](images/rasa_logo.png)
+![*I LOVE RASA*](/images/rasa_logo.png)
 
 Seriously, I do! It's beautiful :)
