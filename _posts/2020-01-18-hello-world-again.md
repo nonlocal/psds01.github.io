@@ -13,6 +13,15 @@ Will have details regarding blah and blah
 
 Will elaborate on this and that.
 
+Can I do sub-sections??
+### sup?
+sup
+
+### hey
+hye
+
+
+
 ## Section 3 : Some maths?
 
 Yeah, let's have some maths inline: $a^2+b^2 = c^2$.
