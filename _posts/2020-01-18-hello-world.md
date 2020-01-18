@@ -21,4 +21,4 @@ Where do we plan to apply these principles? How?
 
 What did we learn?
 
-Well, to be honest, now I can finally write integration symbol in a blog: $\int_0^nx dx$
+Well, to be honest, now I can finally write integration symbol in a blog: $\int_0^n x^2 dx$
