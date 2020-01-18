@@ -1,7 +1,8 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+# My first blog post
 
-![Image of fast.ai logo](images/logo.png)
+Hello and welcome to my blog!
 
-## This is a title
-
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+Here we will talk about everything in machine learning under the sun:
+  1. theory
+  2. implementations
+  3. practical applications
