@@ -1,4 +1,4 @@
-# My first blog post
+# All blogs
 
 Hello and welcome to my blog!
 
