@@ -1,6 +1,6 @@
 # TensorFlow GradientTape
 
-## How (not) to train your functional Keras model!
+How (not) to train your functional Keras model!
 
 Let's say we want to train an NLP model to maximize similarity between two inputs : X1 and X2.
 ```python
