@@ -100,7 +100,7 @@ This is because the GradientTape context has not tracked the way `loss` was calc
 
 
 ## Section 3 : How to train your functional keras model using `GradientTape` _the right way_
-The right way to train a model is let the `GradientTape` context track both the output calculation and loss calculation! This took a bit of a learning for me.
+The right way to train a model is to let the `GradientTape` context track both the output calculation and loss calculation! This took a bit of a learning for me.
 ```python
 X1 = np.random.randint(0, vocab_size, (batch_size, max_len))
 X1 = np.random.randint(0, vocab_size, (batch_size, max_len))
