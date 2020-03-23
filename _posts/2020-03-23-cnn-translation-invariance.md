@@ -77,3 +77,11 @@ It highlights that: (zero-valid and zero-same) paddings behave similar but are d
 
 ## Core experiment to test the hypothesis
 
+1. Core experiment
+![image](/images/expt.png)
+The core experiment is a simulated one: it has two types of colored patches: ref-to-the-left-of-the-green and green-to-the-left-of-the-red.
+
+The similar dataset has close resemblance (location-wise w.r.t. boundary) to the train data and the dissimilar dataset shifts the absolute y location of the colored patches but maintains left-to-right distinction of the patches.
+
+The results are as follows: 
+![results](/images/result.png)
