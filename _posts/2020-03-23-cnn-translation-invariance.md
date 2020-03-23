@@ -59,3 +59,17 @@ Convolution is (like) translation (equivariant) and if that is followed by an op
 6. Visual inductive priors
 
     adding inductive priors increase data efficiency by tying parameters, sharing rotation responses, scale-space basis
+
+
+## Encoding boundary location
+
+1. Padding : for a filter of size 2k+1
+
+    a. Valid : no padding : 
+    
+    b. Same : padding of size k surrounding the image 
+    
+    c. Full : padding of size 2k surrounding the image 
+    
+This is a very interesting(?) table: ![boundary effect illustration](/images/boundary_effect_illustration.png)
+
