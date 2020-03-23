@@ -73,3 +73,7 @@ Convolution is (like) translation (equivariant) and if that is followed by an op
     
 This is a very interesting(?) table: ![boundary effect illustration](/images/boundary_effect_illustration.png)
 
+It highlights that: (zero-valid and zero-same) paddings behave similar but are different from (circular-same and zero-full) paddings.
+
+## Core experiment to test the hypothesis
+
